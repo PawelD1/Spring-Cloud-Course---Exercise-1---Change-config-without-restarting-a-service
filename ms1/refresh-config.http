@@ -1,0 +1,2 @@
+POST http://localhost:57048/actuator/refresh
+#odpalenie powyzszego POSTA atkualizacuje dynamiczną konfigurację zaciąganą z brancha z githuba
